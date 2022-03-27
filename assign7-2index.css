@@ -1,0 +1,14 @@
+.xyz{
+    text-align: center;
+    border: 3px solid;
+    margin-left: 550px;
+    margin-right: 550px;
+    padding: 20px;
+}
+h2{
+    text-align: center;
+}
+button{
+    background-color: rgb(134, 134, 214);
+    color: black;
+}
